@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-Live Dem `https://liang49.github.io/pixel/`
+Live Demo https://liang49.github.io/pixel/
 ## Table of Contents
 
 * [Instructions](#instructions)
